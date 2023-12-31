@@ -1,4 +1,4 @@
-https://github.com/Ariyanekyodha/AjMovieSearch if [ -z $UPSTREAM_REPO ]
+ if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
   git clone https://github.com/Ariyanekyodha/AjMovieSearch.git /AjMovieSearch
